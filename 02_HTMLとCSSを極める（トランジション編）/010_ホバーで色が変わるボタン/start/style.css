@@ -1,0 +1,21 @@
+#container {
+  text-align: center;
+}
+
+.btn {
+  background-color: white;
+  color: #626262;
+  border: 1px solid #626262;
+  padding: 10px 40px;
+  margin: 50px 0;
+  font-weight: 600;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.btn:hover {
+  background-color: #626262;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
